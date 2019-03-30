@@ -1,0 +1,3 @@
+rem适配
+zepto插件的animate方法实现轮播图
+less文件实现媒体查询
